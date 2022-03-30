@@ -1,0 +1,30 @@
+.div1 {
+    background-color: #200292;
+    height: 299px;
+    width: 299px
+}
+
+.div2 {
+    background-color: #a876ff;
+    height: 97%;
+    width: 40%
+}
+
+p {
+    background-color: olive;
+    color: rebeccapurple;
+    font-size: 26;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold
+}
+
+.div3 {
+    background-color: rgb(192, 127, 42);
+    height: 10vh;
+    width: 70%;
+}
+
+.div4 {
+    background-color: rgb(53, 46, 82);
+    height: 76%;
+    width: 30vw;}
